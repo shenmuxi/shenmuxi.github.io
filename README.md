@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+﻿## 欢迎您来到申木夕的主页
 
-You can use the [editor on GitHub](https://github.com/shenmuxi/shenmuxi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+欢迎用户下载使用博主开发的软件产品！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [民法典app](https://apps.apple.com/cn/app/%E6%B0%91%E6%B3%95%E5%85%B8-%E7%A4%BE%E4%BC%9A%E7%94%9F%E6%B4%BB%E7%9A%84%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6/id1551752560)
 
-### Markdown
+《中华人民共和国民法典》被称为“社会生活的百科全书”，是新中国第一部以法典命名的法律，在法律体系中居于基础性地位，也是市场经济的基本法。《中华人民共和国民法典》共7编、1260条，各编依次为总则、物权、合同、人格权、婚姻家庭、继承、侵权责任，以及附则。通篇贯穿以人民为中心的发展思想，着眼满足人民对美好生活的需要，对公民的人身权、财产权、人格权等作出明确翔实的规定，并规定侵权责任，明确权利受到削弱、减损、侵害时的请求权和救济权等，体现了对人民权利的充分保障，被誉为“新时代人民权利的宣言书”。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+民法典app提供317道习题（含答案解析），及民法典目录展开与收起、缩略图预览、关键字搜索等功能，内容精心排版，方便用户阅读。民法典共7编、1260条，各编依次为总则、物权、合同、人格权、婚姻家庭、继承、侵权责任。
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### 技术支持
 
-- Bulleted
-- List
+邮箱：514629164@qq.com
+QQ：514629164
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shenmuxi/shenmuxi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### [隐私政策](https://shenmuxi.github.io/privacy.md)
