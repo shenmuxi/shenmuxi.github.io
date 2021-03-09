@@ -2,11 +2,15 @@
     {
         "name":"中国共产党章程",
         "subtile":"AI语音图文词条习题提高学习效率",
-        "appId":"1555391967"
+        "appId":"1555391967",
+        "url":"https://apps.apple.com/cn/app/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%AB%A0%E7%A8%8B/id1555391967",
+        "icon":"https://shenmuxi.github.io/webp/gcddz.webp"
     },
     {
         "name":"民法典-社会生活的百科全书",
         "subtile":"新时代人民权利的宣言书",
-        "appId":"1551752560"
+        "appId":"1551752560",
+        "url":"https://apps.apple.com/cn/app/%E6%B0%91%E6%B3%95%E5%85%B8%E5%A4%A7%E5%85%A8/id1551752560",
+        "icon":"https://shenmuxi.github.io/webp/mfd.webp"
     }
 ]
